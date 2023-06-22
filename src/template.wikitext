@@ -1,6 +1,1 @@
-{| align="right" style="border:1px solid black; margin:.25em 0 .25em 1em;"
-|-
-| 
 {{#multimaps: | center = {{center}} | width = 250px | height = 250px | zoom = {{zoom}} | maxzoom = 19 | minzoom = 1 | line = {{line}} ~Color=#000000 ~Weight=7 ~Opacity=0.5 }}
-|-
-|}
